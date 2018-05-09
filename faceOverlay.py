@@ -9,8 +9,8 @@ subscription_key = "4c9f57cd09c741cf92e852d98129b8b8"
 assert subscription_key
 
 face_api_url = 'https://westcentralus.api.cognitive.microsoft.com/face/v1.0/detect'
-image_url = 'https://avatars3.githubusercontent.com/u/17981265?s=400&u=747aacb4e4333efe4d9414f5cc04b4028b3e5572&v=4'
-
+#image_url = 'https://avatars3.githubusercontent.com/u/17981265?s=400&u=747aacb4e4333efe4d9414f5cc04b4028b3e5572&v=4'
+image_url = 'https://media.licdn.com/dms/image/C4E03AQEWEvn7ZsSFIw/profile-displayphoto-shrink_800_800/0?e=1530748800&v=beta&t=fVkjElyGM94ZE7lqFO_1amYqDa57TfOyJOKzIBGxliY'
 
 headers = { 'Ocp-Apim-Subscription-Key': subscription_key , 'Content-Type': 'application/json'}
 params = {

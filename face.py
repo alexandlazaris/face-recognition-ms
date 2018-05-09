@@ -4,7 +4,7 @@ subscription_key = "4c9f57cd09c741cf92e852d98129b8b8"
 assert subscription_key
 
 face_api_url = 'https://westcentralus.api.cognitive.microsoft.com/face/v1.0/detect'
-image_url = 'https://avatars3.githubusercontent.com/u/17981265?s=400&u=747aacb4e4333efe4d9414f5cc04b4028b3e5572&v=4'
+#image_url = 'https://avatars3.githubusercontent.com/u/17981265?s=400&u=747aacb4e4333efe4d9414f5cc04b4028b3e5572&v=4'
 #image_url = 'https://static.businessinsider.com/image/58ad74e2dd089560288b48f6/image.jpg' #rooney
 #image_url = 'http://sse.royalsociety.org/2015/media/8703/facefacts_averages-full-size.png' # 4 faces
 #image_url = 'http://talksport.com/sites/default/files/tscouk_old_image/81188326.jpg' #man utd 07/08 group
